@@ -30,5 +30,5 @@ Bootstrap
 WEBSITES
 
 Github:https://github.com/dokodesara/-Code-Quiz
-
+Deployed :https://dokodesara.github.io/-Code-Quiz/
 
